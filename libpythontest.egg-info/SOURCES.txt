@@ -1,0 +1,7 @@
+README.md
+setup.py
+libpythontest.egg-info/PKG-INFO
+libpythontest.egg-info/SOURCES.txt
+libpythontest.egg-info/dependency_links.txt
+libpythontest.egg-info/not-zip-safe
+libpythontest.egg-info/top_level.txt
